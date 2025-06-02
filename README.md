@@ -31,13 +31,13 @@
 
 ```typescript
 const developer = {
-    name: "[YOUR NAME]",
+    name: "[Gaurav Kaushalye]",
     role: "Full Stack Developer",
-    location: "Earth 🌍",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    location: "India,Bharat,Hindusthan",
+    languages: ["C++","C","JavaScript", "TypeScript", "Python", "Java"],
     frameworks: ["React", "Node.js", "Express", "Next.js"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "Figma"],
+    tools: ["Git", "Docker", "AWS", "Figma","Canva"],
     hobbies: ["Coding", "Gaming", "Music", "Travel"],
     currentFocus: "Building amazing web experiences",
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
@@ -55,11 +55,11 @@ const developer = {
   
   <!-- Frontend -->
   <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" />
   
   <!-- Backend -->
   <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,laravel,mongodb,mysql,postgresql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql,postgresql,redis&theme=dark" />
   
   <!-- Tools & Others -->
   <h3>🛠️ Tools & Others</h3>
