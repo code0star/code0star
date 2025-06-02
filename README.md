@@ -103,6 +103,18 @@ const developer = {
   </a>
 </div>
 
+<h2 align="center">
+<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50">Leetcode 
+ <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50">
+
+
+</h2>
+<div align="center">
+  <a href="https://leetcode.com/u/gaurav_kaushalye/">
+    <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202025-04-22%20183058.png"/>
+  </a>
+</div>
+
 <!-- Achievements -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o7qDKxQAWFHbKMEGk/giphy.gif" width="50">
