@@ -98,14 +98,9 @@ const developer = {
 <div align="center">
   
   <!-- Project Cards -->
-  <a href="https://github.com/code0star/project1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project1&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <a href="ascend-new-henna.vercel.app">
+    <img width="45%" src="https://github.com/code0star/Ascend_new/blob/main/Screenshot%202025-05-23%20234608.png"/>
   </a>
-  
-  <a href="https://github.com/code0star/project2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project2&theme=radical&hide_border=true&bg_color=0D1117"/>
-  </a>
-  
 </div>
 
 <!-- Achievements -->
@@ -128,19 +123,19 @@ const developer = {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/gaurav-kaushalye/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://www.youtube.com/@gaurav123kaushalye">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
   </a>
   
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/kaushalye_gaurav">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
   
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:gauravkaushalye@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
   
@@ -196,16 +191,32 @@ const developer = {
 
 ---
 
-<div align="center">
+<div align="center" >
+ <div style="
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+">
   <h3>💝 Support My Work</h3>
-  
-  <a href="https://www.buymeacoffee.com/yourhandle">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+    <div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+">
+ <p align="center">
+
+  Show support after buying me a  
+  <a href="https://buy-me-a-samosa.vercel.app" target="_blank">
+    <img src="https://github.com/code0star/buy_me_a_samosa/blob/main/public/Samosa.gif?raw=true" width="60" />
   </a>
-  
-  <a href="https://ko-fi.com/yourhandle">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
+</p>
+      </div>
+</div>
   
 </div>
 
