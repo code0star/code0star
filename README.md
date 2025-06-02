@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Custom Animated Banner -->
-<img src="https://github.com/code0star/code0star/edit/main/images/github-header-image.png" width="400"/>
+<img src="https://github.com/code0star/code0star/blob/main/images/github-header-image.png" width="1000"/>
 
 
 
