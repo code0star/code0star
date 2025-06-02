@@ -102,7 +102,7 @@ const developer = {
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project1&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
   
-  <a href="https://github.com/YourUsername/project2">
+  <a href="https://github.com/code0star/project2">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project2&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
   
@@ -214,4 +214,3 @@ const developer = {
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
   <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
 </div>
-
