@@ -2,9 +2,9 @@
 <div align="center">
 
 <!-- Custom Animated Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&height=100&lines=Hey+There!+👋;I'm+[YOUR+NAME];Full+Stack+Developer+💻;Welcome+to+my+GitHub!+🚀" alt="Animated Banner" />
-</h1>
+<img src="https://github.com/code0star/code0star/edit/main/images/github-header-image.png" width="400"/>
+
+
 
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=180&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
