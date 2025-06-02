@@ -75,17 +75,17 @@ const developer = {
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=code0star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=code0star&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code0star&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 <!-- Projects Showcase -->
@@ -98,12 +98,12 @@ const developer = {
 <div align="center">
   
   <!-- Project Cards -->
-  <a href="https://github.com/YourUsername/project1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <a href="https://github.com/code0star/project1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project1&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
   
   <a href="https://github.com/YourUsername/project2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0star&repo=project2&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
   
 </div>
@@ -116,7 +116,7 @@ const developer = {
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=code0star&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 <!-- Connect With Me -->
@@ -152,7 +152,7 @@ const developer = {
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=F85D7F&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=code0star&label=Profile%20Views&color=F85D7F&style=for-the-badge"/>
 </div>
 
 <!-- Fun Section -->
