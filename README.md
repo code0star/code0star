@@ -99,7 +99,7 @@ const developer = {
   
   <!-- Project Cards -->
   <a href="https://ascend-new-henna.vercel.app/">
-    <img width="45%" src="https://github.com/code0star/Ascend_new/blob/main/Screenshot%202025-05-23%20234608.png"/>
+    <img width="45%" src="https://github.com/code0star/Ascend_new/blob/main/Screenshot%202026-05-15%20162852.png"/>
   </a>
 </div>
 
