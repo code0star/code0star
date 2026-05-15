@@ -111,7 +111,7 @@ const developer = {
 </h2>
 <div align="center">
   <a href="https://leetcode.com/u/gaurav_kaushalye/">
-    <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202025-04-22%20183058.png"/>
+    <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202026-05-15%20162852.png"/>
   </a>
 </div>
 
