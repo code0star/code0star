@@ -98,17 +98,21 @@ const developer = {
 <div align="center">
   
   <!-- Project Cards -->
-  <a href="https://safelist-pro.vercel.app/">
-    <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202026-05-15%20163619.png"/>
-  </a>
-</div>
-<div align="center">
-  
-  <!-- Project Cards -->
   <a href="https://struct-website.vercel.app/">
     <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202026-06-05%20235649.png"/>
   </a>
+  <div> Struct, AI-Powered Desktop Learning </div>
 </div>
+
+<div align="center">
+  
+  <!-- Project Cards -->
+  <a href="https://safelist-pro.vercel.app/">
+    <img width="45%" src="https://github.com/code0star/code0star/blob/main/Screenshot%202026-05-15%20163619.png"/>
+  </a>
+   <div> SafeList, peer-to-peer trading platform </div>
+</div>
+
 
 <h2 align="center">
 <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50">Leetcode 
